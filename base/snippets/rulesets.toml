@@ -1,5 +1,3 @@
-ines (21 sloc)  547 Bytes
-   
 [[rulesets]]
 group = "REJECT"
 ruleset = "rules/ACL4SSR/Clash/BanAD.list"
